@@ -1,0 +1,37 @@
+.container {
+  width: 80%;
+}
+header h1 {
+  height: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+.input-text {
+  width: 500px;
+  height: 100px;
+  border-radius: 6px 6px 6px 6px;
+}
+
+.parent {
+  text-align: center;
+}
+
+.button {
+  margin: 50px;
+  margin-right: 10px;
+}
+
+.btn-primary-spacing {
+  margin-right: 5px;
+  margin-bottom: 5px !important;
+}
+
+.default-message {
+  text-align: center;
+  margin: 50px;
+}
